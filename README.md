@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/filecc/FM-meet-landing-page](https://github.com/filecc/FM-meet-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://filecc.github.io/FM-meet-landing-page/](https://filecc.github.io/FM-meet-landing-page/)
 
 ## My process
 
